@@ -46,3 +46,4 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 # Tools
 
 brew install coreutils
+brew install rbenv
