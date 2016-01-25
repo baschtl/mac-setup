@@ -24,6 +24,7 @@ brew cask install hipchat
 brew cask install firefox
 brew cask install thunderbird
 brew cask install owncloud
+brew cask install slack
 
 # development
 brew cask install iterm2
