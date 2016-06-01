@@ -35,7 +35,7 @@ brew cask install sourcetree
 
 # misc
 brew cask install vox
-brew cask install keepassx0
+brew cask install dwihn0r-keepassx
 brew cask install caffeine
 brew cask install appcleaner
 brew cask install libreoffice
