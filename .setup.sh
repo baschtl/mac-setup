@@ -50,4 +50,5 @@ brew cask install font-inconsolata-for-powerline # for iterm
 
 brew install coreutils
 brew install gnupg2
+brew install pinentry-mac
 brew install rbenv
