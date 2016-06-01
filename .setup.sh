@@ -28,7 +28,6 @@ brew cask install slack
 
 # development
 brew cask install iterm2
-brew cask install sublime
 brew cask install atom
 brew cask install sequel-pro
 brew cask install sourcetree
