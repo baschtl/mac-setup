@@ -42,7 +42,6 @@ brew cask install libreoffice
 brew cask install flux
 brew cask install the-unarchiver
 brew cask install clipmenu
-brew cask install rescuetime
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package # quicklook plugins
 
 # fonts
